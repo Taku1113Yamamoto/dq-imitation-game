@@ -1,0 +1,3 @@
+number,name,heal-num,gold
+1,やくそう,15,10
+2,じょうやくそう,30,45

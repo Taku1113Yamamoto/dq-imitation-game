@@ -1,0 +1,5 @@
+name,path,hp,attack,defence,exp,gold,random_max,random_min
+スライム,assets/monster-images/pipo-enemy009.png,8,9,5,1,1,0,49
+スライムベス,assets/monster-images/pipo-enemy009a.png,6,10,5,1,1,50,69
+やまねずみ,assets/monster-images/pipo-enemy034.png,13,10,4,2,2,70,89
+おおめだま,assets/monster-images/pipo-enemy020.png,16,9,4,3,3,90,99
