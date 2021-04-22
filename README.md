@@ -1,4 +1,4 @@
-#dq_imitation_game
+# dq_imitation_game
 簡易版のドラゴンクエストを作りました。
 
 # 開発環境
